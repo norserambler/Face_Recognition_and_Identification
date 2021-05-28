@@ -2,4 +2,4 @@
 In this project I have made a system that would recognise my face and identify it as Sreevishnu. All other faces would be labeled 'Unknown'
 
 OUTPUT OF THE CODE:
-![IMAGE][Screenshot(39).png]
+![][Screenshot(39).png]
